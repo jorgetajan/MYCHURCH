@@ -1,8 +1,10 @@
 public class Persona {
+
     // Atributos (propiedades)
     private String nombre;
     private int edad;
     private String genero;
+    private String telefono;
 
     // Constructor
     public Persona(String nombre, int edad, String genero) {
